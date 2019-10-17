@@ -36,6 +36,8 @@ p{
 
 button{
     alignment: center;
+    color: lightyellow;
+    background-color: darkblue;
 }
 
 .container{
