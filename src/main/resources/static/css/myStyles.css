@@ -1,18 +1,11 @@
 body{
-    /*background-image: url(https://res.cloudinary.com/dhg2lpfid/image/upload/v1570788662/parking-lot-300x197_kfbcew.jpg);*/
+    /*background-image: url(PASTE URL HERE);*/
     background-color: deepskyblue;
     background-size: cover;
-    /*font-family: 'Scheherazade', serif;*/
     font-size: 18px;
 }
 
-h1{
-    text-align: center;
-    color: darkblue;
-
-}
-
-h2{
+h1,h2{
     text-align: center;
     color: darkblue;
 }
@@ -70,6 +63,14 @@ button{
 .table{
     background-color: lightyellow;
     text-align: center;
+}
+
+.nav{
+    background-color: darkblue;
+}
+
+.nav-link{
+    color: whitesmoke
 }
 
 .center {
